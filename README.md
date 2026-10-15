@@ -6,9 +6,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0134-gas-station](https://github.com/ShardulBandre/My-Leetcode/tree/master/0134-gas-station) |
 | [1929-concatenation-of-array](https://github.com/ShardulBandre/My-Leetcode/tree/master/1929-concatenation-of-array) |
 ## Simulation
 |  |
 | ------- |
 | [1929-concatenation-of-array](https://github.com/ShardulBandre/My-Leetcode/tree/master/1929-concatenation-of-array) |
+## Greedy
+|  |
+| ------- |
+| [0134-gas-station](https://github.com/ShardulBandre/My-Leetcode/tree/master/0134-gas-station) |
 <!---LeetCode Topics End-->
