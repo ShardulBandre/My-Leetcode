@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0134-gas-station](https://github.com/ShardulBandre/My-Leetcode/tree/master/0134-gas-station) |
+| [0217-contains-duplicate](https://github.com/ShardulBandre/My-Leetcode/tree/master/0217-contains-duplicate) |
 | [1929-concatenation-of-array](https://github.com/ShardulBandre/My-Leetcode/tree/master/1929-concatenation-of-array) |
 ## Simulation
 |  |
@@ -16,4 +17,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0134-gas-station](https://github.com/ShardulBandre/My-Leetcode/tree/master/0134-gas-station) |
+## Hash Table
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/ShardulBandre/My-Leetcode/tree/master/0217-contains-duplicate) |
+## Sorting
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/ShardulBandre/My-Leetcode/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
