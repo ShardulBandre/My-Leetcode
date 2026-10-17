@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/ShardulBandre/My-Leetcode/tree/master/0056-merge-intervals) |
 | [0134-gas-station](https://github.com/ShardulBandre/My-Leetcode/tree/master/0134-gas-station) |
 | [0217-contains-duplicate](https://github.com/ShardulBandre/My-Leetcode/tree/master/0217-contains-duplicate) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/ShardulBandre/My-Leetcode/tree/master/0674-longest-continuous-increasing-subsequence) |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/ShardulBandre/My-Leetcode/tree/master/0056-merge-intervals) |
 | [0217-contains-duplicate](https://github.com/ShardulBandre/My-Leetcode/tree/master/0217-contains-duplicate) |
 ## Two Pointers
 |  |
@@ -50,4 +52,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ShardulBandre/My-Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/ShardulBandre/My-Leetcode/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
