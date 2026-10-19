@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ShardulBandre/My-Leetcode/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/ShardulBandre/My-Leetcode/tree/master/0014-longest-common-prefix) |
 | [0056-merge-intervals](https://github.com/ShardulBandre/My-Leetcode/tree/master/0056-merge-intervals) |
 | [0134-gas-station](https://github.com/ShardulBandre/My-Leetcode/tree/master/0134-gas-station) |
 | [0217-contains-duplicate](https://github.com/ShardulBandre/My-Leetcode/tree/master/0217-contains-duplicate) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/ShardulBandre/My-Leetcode/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ShardulBandre/My-Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0242-valid-anagram](https://github.com/ShardulBandre/My-Leetcode/tree/master/0242-valid-anagram) |
 ## String Matching
@@ -65,4 +67,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/ShardulBandre/My-Leetcode/tree/master/0009-palindrome-number) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/ShardulBandre/My-Leetcode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
