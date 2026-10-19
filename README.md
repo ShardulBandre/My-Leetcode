@@ -61,4 +61,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/ShardulBandre/My-Leetcode/tree/master/0056-merge-intervals) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/ShardulBandre/My-Leetcode/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
