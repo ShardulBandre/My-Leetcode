@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/ShardulBandre/My-Leetcode/tree/master/0014-longest-common-prefix) |
 | [0056-merge-intervals](https://github.com/ShardulBandre/My-Leetcode/tree/master/0056-merge-intervals) |
 | [0134-gas-station](https://github.com/ShardulBandre/My-Leetcode/tree/master/0134-gas-station) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/ShardulBandre/My-Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0217-contains-duplicate](https://github.com/ShardulBandre/My-Leetcode/tree/master/0217-contains-duplicate) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/ShardulBandre/My-Leetcode/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0875-koko-eating-bananas](https://github.com/ShardulBandre/My-Leetcode/tree/master/0875-koko-eating-bananas) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/ShardulBandre/My-Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0875-koko-eating-bananas](https://github.com/ShardulBandre/My-Leetcode/tree/master/0875-koko-eating-bananas) |
 ## Tree
 |  |
