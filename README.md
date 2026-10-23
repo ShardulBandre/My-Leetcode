@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ShardulBandre/My-Leetcode/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/ShardulBandre/My-Leetcode/tree/master/0013-roman-to-integer) |
 | [0217-contains-duplicate](https://github.com/ShardulBandre/My-Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/ShardulBandre/My-Leetcode/tree/master/0242-valid-anagram) |
 ## Sorting
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/ShardulBandre/My-Leetcode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/ShardulBandre/My-Leetcode/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ShardulBandre/My-Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0242-valid-anagram](https://github.com/ShardulBandre/My-Leetcode/tree/master/0242-valid-anagram) |
@@ -70,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/ShardulBandre/My-Leetcode/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/ShardulBandre/My-Leetcode/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/ShardulBandre/My-Leetcode/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/ShardulBandre/My-Leetcode/tree/master/0069-sqrtx) |
 ## Trie
