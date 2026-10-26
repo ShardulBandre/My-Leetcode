@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/ShardulBandre/My-Leetcode/tree/master/0088-merge-sorted-array) |
 | [0134-gas-station](https://github.com/ShardulBandre/My-Leetcode/tree/master/0134-gas-station) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ShardulBandre/My-Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0169-majority-element](https://github.com/ShardulBandre/My-Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/ShardulBandre/My-Leetcode/tree/master/0217-contains-duplicate) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/ShardulBandre/My-Leetcode/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0875-koko-eating-bananas](https://github.com/ShardulBandre/My-Leetcode/tree/master/0875-koko-eating-bananas) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/ShardulBandre/My-Leetcode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/ShardulBandre/My-Leetcode/tree/master/0013-roman-to-integer) |
+| [0169-majority-element](https://github.com/ShardulBandre/My-Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/ShardulBandre/My-Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/ShardulBandre/My-Leetcode/tree/master/0242-valid-anagram) |
 | [0791-custom-sort-string](https://github.com/ShardulBandre/My-Leetcode/tree/master/0791-custom-sort-string) |
@@ -39,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0056-merge-intervals](https://github.com/ShardulBandre/My-Leetcode/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/ShardulBandre/My-Leetcode/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/ShardulBandre/My-Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/ShardulBandre/My-Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/ShardulBandre/My-Leetcode/tree/master/0242-valid-anagram) |
 | [0791-custom-sort-string](https://github.com/ShardulBandre/My-Leetcode/tree/master/0791-custom-sort-string) |
@@ -118,4 +121,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/ShardulBandre/My-Leetcode/tree/master/0069-sqrtx) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/ShardulBandre/My-Leetcode/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/ShardulBandre/My-Leetcode/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/ShardulBandre/My-Leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
