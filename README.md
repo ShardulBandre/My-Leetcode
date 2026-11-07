@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/ShardulBandre/My-Leetcode/tree/master/0067-add-binary) |
 | [1929-concatenation-of-array](https://github.com/ShardulBandre/My-Leetcode/tree/master/1929-concatenation-of-array) |
 ## Greedy
 |  |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/ShardulBandre/My-Leetcode/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ShardulBandre/My-Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/ShardulBandre/My-Leetcode/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/ShardulBandre/My-Leetcode/tree/master/0067-add-binary) |
 | [0242-valid-anagram](https://github.com/ShardulBandre/My-Leetcode/tree/master/0242-valid-anagram) |
 | [0443-string-compression](https://github.com/ShardulBandre/My-Leetcode/tree/master/0443-string-compression) |
 | [0791-custom-sort-string](https://github.com/ShardulBandre/My-Leetcode/tree/master/0791-custom-sort-string) |
@@ -106,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/ShardulBandre/My-Leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/ShardulBandre/My-Leetcode/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/ShardulBandre/My-Leetcode/tree/master/0048-rotate-image) |
+| [0067-add-binary](https://github.com/ShardulBandre/My-Leetcode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/ShardulBandre/My-Leetcode/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/ShardulBandre/My-Leetcode/tree/master/0268-missing-number) |
 | [4000-largest-integer-with-given-digit-sum](https://github.com/ShardulBandre/My-Leetcode/tree/master/4000-largest-integer-with-given-digit-sum) |
@@ -181,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/ShardulBandre/My-Leetcode/tree/master/0067-add-binary) |
 | [0268-missing-number](https://github.com/ShardulBandre/My-Leetcode/tree/master/0268-missing-number) |
 ## Design
 |  |
