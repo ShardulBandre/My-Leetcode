@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/ShardulBandre/My-Leetcode/tree/master/0067-add-binary) |
+| [0415-add-strings](https://github.com/ShardulBandre/My-Leetcode/tree/master/0415-add-strings) |
 | [1929-concatenation-of-array](https://github.com/ShardulBandre/My-Leetcode/tree/master/1929-concatenation-of-array) |
 ## Greedy
 |  |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/ShardulBandre/My-Leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/ShardulBandre/My-Leetcode/tree/master/0344-reverse-string) |
 | [0389-find-the-difference](https://github.com/ShardulBandre/My-Leetcode/tree/master/0389-find-the-difference) |
+| [0415-add-strings](https://github.com/ShardulBandre/My-Leetcode/tree/master/0415-add-strings) |
 | [0443-string-compression](https://github.com/ShardulBandre/My-Leetcode/tree/master/0443-string-compression) |
 | [0791-custom-sort-string](https://github.com/ShardulBandre/My-Leetcode/tree/master/0791-custom-sort-string) |
 ## String Matching
@@ -123,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/ShardulBandre/My-Leetcode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/ShardulBandre/My-Leetcode/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/ShardulBandre/My-Leetcode/tree/master/0268-missing-number) |
+| [0415-add-strings](https://github.com/ShardulBandre/My-Leetcode/tree/master/0415-add-strings) |
 | [4000-largest-integer-with-given-digit-sum](https://github.com/ShardulBandre/My-Leetcode/tree/master/4000-largest-integer-with-given-digit-sum) |
 ## Trie
 |  |
