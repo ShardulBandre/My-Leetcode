@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/ShardulBandre/My-Leetcode/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/ShardulBandre/My-Leetcode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/ShardulBandre/My-Leetcode/tree/master/0344-reverse-string) |
+| [0392-is-subsequence](https://github.com/ShardulBandre/My-Leetcode/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/ShardulBandre/My-Leetcode/tree/master/0443-string-compression) |
 ## String
 |  |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/ShardulBandre/My-Leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/ShardulBandre/My-Leetcode/tree/master/0344-reverse-string) |
 | [0389-find-the-difference](https://github.com/ShardulBandre/My-Leetcode/tree/master/0389-find-the-difference) |
+| [0392-is-subsequence](https://github.com/ShardulBandre/My-Leetcode/tree/master/0392-is-subsequence) |
 | [0415-add-strings](https://github.com/ShardulBandre/My-Leetcode/tree/master/0415-add-strings) |
 | [0443-string-compression](https://github.com/ShardulBandre/My-Leetcode/tree/master/0443-string-compression) |
 | [0791-custom-sort-string](https://github.com/ShardulBandre/My-Leetcode/tree/master/0791-custom-sort-string) |
@@ -215,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/ShardulBandre/My-Leetcode/tree/master/0022-generate-parentheses) |
+| [0392-is-subsequence](https://github.com/ShardulBandre/My-Leetcode/tree/master/0392-is-subsequence) |
 ## Backtracking
 |  |
 | ------- |
