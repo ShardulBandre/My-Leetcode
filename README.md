@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/ShardulBandre/My-Leetcode/tree/master/0027-remove-element) |
 | [0048-rotate-image](https://github.com/ShardulBandre/My-Leetcode/tree/master/0048-rotate-image) |
 | [0056-merge-intervals](https://github.com/ShardulBandre/My-Leetcode/tree/master/0056-merge-intervals) |
+| [0066-plus-one](https://github.com/ShardulBandre/My-Leetcode/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/ShardulBandre/My-Leetcode/tree/master/0088-merge-sorted-array) |
 | [0134-gas-station](https://github.com/ShardulBandre/My-Leetcode/tree/master/0134-gas-station) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ShardulBandre/My-Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/ShardulBandre/My-Leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/ShardulBandre/My-Leetcode/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/ShardulBandre/My-Leetcode/tree/master/0048-rotate-image) |
+| [0066-plus-one](https://github.com/ShardulBandre/My-Leetcode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/ShardulBandre/My-Leetcode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/ShardulBandre/My-Leetcode/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/ShardulBandre/My-Leetcode/tree/master/0268-missing-number) |
