@@ -183,11 +183,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/ShardulBandre/My-Leetcode/tree/master/0021-merge-two-sorted-lists) |
+| [0203-remove-linked-list-elements](https://github.com/ShardulBandre/My-Leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0706-design-hashmap](https://github.com/ShardulBandre/My-Leetcode/tree/master/0706-design-hashmap) |
 ## Recursion
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/ShardulBandre/My-Leetcode/tree/master/0021-merge-two-sorted-lists) |
+| [0203-remove-linked-list-elements](https://github.com/ShardulBandre/My-Leetcode/tree/master/0203-remove-linked-list-elements) |
 ## Sliding Window
 |  |
 | ------- |
