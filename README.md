@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/ShardulBandre/My-Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/ShardulBandre/My-Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/ShardulBandre/My-Leetcode/tree/master/0283-move-zeroes) |
+| [0414-third-maximum-number](https://github.com/ShardulBandre/My-Leetcode/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ShardulBandre/My-Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/ShardulBandre/My-Leetcode/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0706-design-hashmap](https://github.com/ShardulBandre/My-Leetcode/tree/master/0706-design-hashmap) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/ShardulBandre/My-Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/ShardulBandre/My-Leetcode/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/ShardulBandre/My-Leetcode/tree/master/0389-find-the-difference) |
+| [0414-third-maximum-number](https://github.com/ShardulBandre/My-Leetcode/tree/master/0414-third-maximum-number) |
 | [0791-custom-sort-string](https://github.com/ShardulBandre/My-Leetcode/tree/master/0791-custom-sort-string) |
 ## Two Pointers
 |  |
