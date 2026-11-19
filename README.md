@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/ShardulBandre/My-Leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/ShardulBandre/My-Leetcode/tree/master/0018-4sum) |
 | [0027-remove-element](https://github.com/ShardulBandre/My-Leetcode/tree/master/0027-remove-element) |
+| [0041-first-missing-positive](https://github.com/ShardulBandre/My-Leetcode/tree/master/0041-first-missing-positive) |
 | [0048-rotate-image](https://github.com/ShardulBandre/My-Leetcode/tree/master/0048-rotate-image) |
 | [0056-merge-intervals](https://github.com/ShardulBandre/My-Leetcode/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/ShardulBandre/My-Leetcode/tree/master/0066-plus-one) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/ShardulBandre/My-Leetcode/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/ShardulBandre/My-Leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/ShardulBandre/My-Leetcode/tree/master/0013-roman-to-integer) |
+| [0041-first-missing-positive](https://github.com/ShardulBandre/My-Leetcode/tree/master/0041-first-missing-positive) |
 | [0169-majority-element](https://github.com/ShardulBandre/My-Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/ShardulBandre/My-Leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/ShardulBandre/My-Leetcode/tree/master/0219-contains-duplicate-ii) |
