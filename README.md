@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0706-design-hashmap](https://github.com/ShardulBandre/My-Leetcode/tree/master/0706-design-hashmap) |
 | [0875-koko-eating-bananas](https://github.com/ShardulBandre/My-Leetcode/tree/master/0875-koko-eating-bananas) |
 | [1929-concatenation-of-array](https://github.com/ShardulBandre/My-Leetcode/tree/master/1929-concatenation-of-array) |
+| [2780-minimum-index-of-a-valid-split](https://github.com/ShardulBandre/My-Leetcode/tree/master/2780-minimum-index-of-a-valid-split) |
 ## Simulation
 |  |
 | ------- |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ShardulBandre/My-Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0706-design-hashmap](https://github.com/ShardulBandre/My-Leetcode/tree/master/0706-design-hashmap) |
 | [0791-custom-sort-string](https://github.com/ShardulBandre/My-Leetcode/tree/master/0791-custom-sort-string) |
+| [2780-minimum-index-of-a-valid-split](https://github.com/ShardulBandre/My-Leetcode/tree/master/2780-minimum-index-of-a-valid-split) |
 ## Sorting
 |  |
 | ------- |
@@ -72,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/ShardulBandre/My-Leetcode/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/ShardulBandre/My-Leetcode/tree/master/0414-third-maximum-number) |
 | [0791-custom-sort-string](https://github.com/ShardulBandre/My-Leetcode/tree/master/0791-custom-sort-string) |
+| [2780-minimum-index-of-a-valid-split](https://github.com/ShardulBandre/My-Leetcode/tree/master/2780-minimum-index-of-a-valid-split) |
 ## Two Pointers
 |  |
 | ------- |
