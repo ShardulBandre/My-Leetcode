@@ -182,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/ShardulBandre/My-Leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0169-majority-element](https://github.com/ShardulBandre/My-Leetcode/tree/master/0169-majority-element) |
 ## Counting
 |  |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/ShardulBandre/My-Leetcode/tree/master/0021-merge-two-sorted-lists) |
+| [0023-merge-k-sorted-lists](https://github.com/ShardulBandre/My-Leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0203-remove-linked-list-elements](https://github.com/ShardulBandre/My-Leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0706-design-hashmap](https://github.com/ShardulBandre/My-Leetcode/tree/master/0706-design-hashmap) |
 ## Recursion
@@ -250,4 +252,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/ShardulBandre/My-Leetcode/tree/master/0238-product-of-array-except-self) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/ShardulBandre/My-Leetcode/tree/master/0023-merge-k-sorted-lists) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/ShardulBandre/My-Leetcode/tree/master/0023-merge-k-sorted-lists) |
+## Tournament Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/ShardulBandre/My-Leetcode/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
