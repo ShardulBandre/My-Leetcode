@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/ShardulBandre/My-Leetcode/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ShardulBandre/My-Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/ShardulBandre/My-Leetcode/tree/master/0485-max-consecutive-ones) |
+| [0628-maximum-product-of-three-numbers](https://github.com/ShardulBandre/My-Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/ShardulBandre/My-Leetcode/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0706-design-hashmap](https://github.com/ShardulBandre/My-Leetcode/tree/master/0706-design-hashmap) |
 | [0875-koko-eating-bananas](https://github.com/ShardulBandre/My-Leetcode/tree/master/0875-koko-eating-bananas) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/ShardulBandre/My-Leetcode/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/ShardulBandre/My-Leetcode/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/ShardulBandre/My-Leetcode/tree/master/0414-third-maximum-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/ShardulBandre/My-Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0791-custom-sort-string](https://github.com/ShardulBandre/My-Leetcode/tree/master/0791-custom-sort-string) |
 | [2780-minimum-index-of-a-valid-split](https://github.com/ShardulBandre/My-Leetcode/tree/master/2780-minimum-index-of-a-valid-split) |
 ## Two Pointers
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/ShardulBandre/My-Leetcode/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/ShardulBandre/My-Leetcode/tree/master/0268-missing-number) |
 | [0415-add-strings](https://github.com/ShardulBandre/My-Leetcode/tree/master/0415-add-strings) |
+| [0628-maximum-product-of-three-numbers](https://github.com/ShardulBandre/My-Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [4000-largest-integer-with-given-digit-sum](https://github.com/ShardulBandre/My-Leetcode/tree/master/4000-largest-integer-with-given-digit-sum) |
 ## Trie
 |  |
